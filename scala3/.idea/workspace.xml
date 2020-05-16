@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4286d7da-c495-493f-aae1-7bc875c8ad15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bdDEL8p6zmiuPe0OHPAClwn0P4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="untitled1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="untitled1 [file:/D:/untitled1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="untitled1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3177905926659" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1904485521" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4286d7da-c495-493f-aae1-7bc875c8ad15" name="Default Changelist" comment="" />
+      <created>1588952963281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588952963281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Inspections" timestamp="1588955247468">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1588955247468" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1589005572912">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1589005572912" />
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom" timestamp="1589016518877">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1589016518877" />
+    <state width="1237" height="192" key="GridCell.Tab.0.center" timestamp="1589016518877">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1589016518877" />
+    <state width="1237" height="192" key="GridCell.Tab.0.left" timestamp="1589016518877">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1589016518877" />
+    <state width="1237" height="192" key="GridCell.Tab.0.right" timestamp="1589016518877">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1589016518877" />
+    <state x="335" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1589005560255">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1589005560255" />
+    <state x="296" y="145" width="672" height="676" key="search.everywhere.popup" timestamp="1588956897532">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="145" width="672" height="676" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1588956897532" />
+  </component>
+</project>
